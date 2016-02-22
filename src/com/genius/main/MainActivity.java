@@ -9,7 +9,7 @@ import android.widget.Button;
 
 public class MainActivity extends Activity{
 	/** °´Å¥ **/
-	private Button button;
+//	private Button button;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
