@@ -11,6 +11,7 @@
 
 ### [4.git支持中文的配置](https://github.com/genius-ye/article/blob/master/Git/git%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E7%9A%84%E9%85%8D%E7%BD%AE.md)
 
+### [5.logger(日志工具类)](https://github.com/genius-ye/article/blob/master/Android/utils/Logger.md)
 
 ### ABOUT ME
 
