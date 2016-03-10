@@ -15,7 +15,7 @@
 
 ### ABOUT ME
 
-	    Author : genius-ye
-		  QQ   : 505661829
-		EMail  : 505661829@qq.com
+                            Author : genius-ye
+                              QQ   : 505661829
+                            EMail  : 505661829@qq.com
 
