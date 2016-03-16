@@ -13,6 +13,8 @@
 
 ### [5.logger(日志工具类)](https://github.com/genius-ye/article/blob/master/Android/utils/Logger.md)
 
+### [6.Android沉浸式状态栏（状态栏一体化）](https://github.com/genius-ye/article/blob/master/Android%E7%8A%B6%E6%80%81%E6%A0%8F%E4%B8%80%E4%BD%93%E5%8C%96%EF%BC%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%8A%B6%E6%80%81%E6%A0%8F%EF%BC%89.md)
+
 ### ABOUT ME
 
                             Author : genius-ye
