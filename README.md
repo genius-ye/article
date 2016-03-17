@@ -17,6 +17,8 @@
 
 ### [7.不用sdk实现微信分享（支持多图分享）](https://github.com/genius-ye/article/blob/master/%E4%B8%8D%E4%BD%BF%E7%94%A8SDK%E5%AE%9E%E7%8E%B0%E5%BE%AE%E4%BF%A1%E5%88%86%E4%BA%AB%EF%BC%88%E6%94%AF%E6%8C%81%E5%A4%9A%E5%9B%BE%E5%88%86%E4%BA%AB%EF%BC%89.md)
 
+### [8.Android双击退出应用](https://github.com/genius-ye/article/blob/master/Android%E5%8F%8C%E5%87%BB%E9%80%80%E5%87%BA%E5%BA%94%E7%94%A8.md)
+
 ### ABOUT ME
 
                             Author : genius-ye
