@@ -19,6 +19,8 @@
 
 ### [8.Android双击退出应用](https://github.com/genius-ye/article/blob/master/Android%E5%8F%8C%E5%87%BB%E9%80%80%E5%87%BA%E5%BA%94%E7%94%A8.md)
 
+### [9.Android自动更新实现](https://github.com/genius-ye/article/blob/master/Android自动更新实现.md)
+
 ### ABOUT ME
 
                             Author : genius-ye
