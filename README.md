@@ -21,6 +21,8 @@
 
 ### [9.Android自动更新实现](https://github.com/genius-ye/article/blob/master/Android自动更新实现.md)
 
+### [10.AS代码混淆配置](https://github.com/genius-ye/article/blob/master/AS代码混淆配置.md)
+
 ### ABOUT ME
 
                             Author : genius-ye
